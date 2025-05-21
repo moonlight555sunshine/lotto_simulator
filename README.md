@@ -12,11 +12,11 @@ This Python script simulates a simple lottery number game. The computer randomly
 ## ▶️ How to Run
 
 1. Make sure you have Python 3 installed.
-2. Save the script as `lottery.py`.
+2. Save the script as `main.py`.
 3. Run the script in your terminal or command prompt:
 
    ```bash
-   python lottery.py
+   python main.py
 4. Follow the prompts to enter 6 numbers, one at a time.
 
 ## ✅ Example Output
